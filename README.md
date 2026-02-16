@@ -56,7 +56,7 @@ Data Visualization – Business insight generation
 
 Sales Dashboard (2020–2022)
 A comprehensive view of sales, cost, quantity, brand performance, and regional distribution.
-(https://github.com/SNEHA200427/Power_bi-Project/blob/main/Sales%20Dataset%20Analysis.jpg)
+Dashboard Preview ![Dashboard](https://github.com/SNEHA200427/Power_bi-Project/blob/main/Sales%20Dataset%20Analysis.jpg)
 📌 Conclusion
 
 This Sales Analytics Dashboard delivers actionable insights that help optimize product strategies, strengthen high-performing regions, improve inventory planning, and enhance overall business performance.
