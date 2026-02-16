@@ -1,4 +1,5 @@
 📊 Sales Analytics Dashboard (2020–2022)
+
 📌 Project Overview
 
 This project showcases an interactive Power BI Sales Analytics Dashboard developed to evaluate overall sales performance across product categories, brands, supervisors, and states.
